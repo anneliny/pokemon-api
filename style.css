@@ -1,0 +1,26 @@
+body {
+    margin:100px; 
+    text-align:center;
+}
+
+#Content {
+    width: 500px;
+    height: 400px;
+    margin:0 auto;
+    text-align:center;
+    border: 5px double black;
+}
+
+#inputContainer{
+    margin: 20px;
+}
+#btnContainer{
+    margin: 20px;
+}
+#imgContainer{
+    margin: 50px;
+}
+#pokemonImage{
+    width: 100px;
+    height: auto;
+}
